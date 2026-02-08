@@ -1,0 +1,72 @@
+{
+  "book_id": "renaissance-northern-surrealist-technological-anxiety",
+  "title": "The Beating Secret of Bruised Light",
+  "tagline": "In a city where light carves tunnels through solid dark, a clockmaker's attempt to mend a mechanical heart unleashes a pulse that threatens to unravel reality itself.",
+  "target_words": 71409,
+  "actual_words": 71409,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Natural Order",
+    "The Anxiety of Mechanical Sentience",
+    "The Architecture of Forbidden Knowledge",
+    "The Silence of Oppressive Systems"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Colour of a Fresh Bruise",
+      "words": 6491
+    },
+    {
+      "ch": 2,
+      "title": "A Word Nestling in Stone",
+      "words": 6491
+    },
+    {
+      "ch": 3,
+      "title": "The Intermittent Poetry of Dream",
+      "words": 6491
+    },
+    {
+      "ch": 4,
+      "title": "A Cavity in the City's Ambition",
+      "words": 6491
+    },
+    {
+      "ch": 5,
+      "title": "The Crawling Dark, The Beating Secret",
+      "words": 6491
+    },
+    {
+      "ch": 6,
+      "title": "Sanctuary of Captured Light",
+      "words": 6491
+    },
+    {
+      "ch": 7,
+      "title": "The Taste of Static and Forgotten Rain",
+      "words": 6491
+    },
+    {
+      "ch": 8,
+      "title": "A Throat Swallowing Them Whole",
+      "words": 6491
+    },
+    {
+      "ch": 9,
+      "title": "The Weight of a Sutured Silence",
+      "words": 6491
+    },
+    {
+      "ch": 10,
+      "title": "A Wound of Seamless Light",
+      "words": 6491
+    },
+    {
+      "ch": 11,
+      "title": "Falling Through a Cathedral of Broken Physics",
+      "words": 6491
+    }
+  ]
+}
